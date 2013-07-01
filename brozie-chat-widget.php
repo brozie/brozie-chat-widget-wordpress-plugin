@@ -24,7 +24,7 @@ function brozie_chat_widget(){
 	<script>
 		(function(d,w,o,s,t){
 			s=d.createElement("script");
-			s.src="//d2qfrhunzv3jwi.cloudfront.net/static/widget/brozie-widget.js";
+			s.src="//cf.broziecdn.com/static/widget/brozie-widget.js";
 			s.async=true;
 			s.onload=s.onreadystatechange=function(r){
 				r=this.readyState;
