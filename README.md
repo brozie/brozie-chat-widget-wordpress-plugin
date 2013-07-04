@@ -1,8 +1,8 @@
 Brozie Chat Widget Wordpress Plugin
 ===================================
 
-The [Brozie Chat Widget Wordpress Plugin](http://www.freechatforwebsite.com/) seamlessly integrates Brozie into your Wordpress powered Website.  This combines the robust publishing capabilities of Wordpress with the power of Brozie.
+Transform your domain to a social site! Add live chat to your blog or website quick and easy with Brozie and customize the widget to fit your design.
+
+[Brozie Chat Widget Wordpress Plugin](http://www.freechatforwebsite.com/)
 
 This plugin is for Wordpress 3.0
-
-Except as otherwise noted, the Brozie Chat Widget Wordpress Plugin is licensed under the Apache Licence, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
